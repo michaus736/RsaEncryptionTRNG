@@ -1,0 +1,10 @@
+C:\workspace\dotnet\RsaEncryptionTRNG\FrontEndForm\bin\Release\net6.0-windows\publish\win-x64\FrontEndForm.pdb
+C:\workspace\dotnet\RsaEncryptionTRNG\FrontEndForm\bin\Release\net6.0-windows\publish\win-x64\RNG.exe
+C:\workspace\dotnet\RsaEncryptionTRNG\FrontEndForm\bin\Release\net6.0-windows\publish\win-x64\RsaEncryptionTRNG.exe
+C:\workspace\dotnet\RsaEncryptionTRNG\FrontEndForm\bin\Release\net6.0-windows\publish\win-x64\RsaEncryptionTRNG.deps.json
+C:\workspace\dotnet\RsaEncryptionTRNG\FrontEndForm\bin\Release\net6.0-windows\publish\win-x64\RsaEncryptionTRNG.runtimeconfig.json
+C:\workspace\dotnet\RsaEncryptionTRNG\FrontEndForm\bin\Release\net6.0-windows\publish\win-x64\RNG.deps.json
+C:\workspace\dotnet\RsaEncryptionTRNG\FrontEndForm\bin\Release\net6.0-windows\publish\win-x64\RNG.runtimeconfig.json
+C:\workspace\dotnet\RsaEncryptionTRNG\FrontEndForm\bin\Release\net6.0-windows\publish\win-x64\RsaEncryptionTRNG.pdb
+C:\workspace\dotnet\RsaEncryptionTRNG\FrontEndForm\bin\Release\net6.0-windows\publish\win-x64\RNG.pdb
+C:\workspace\dotnet\RsaEncryptionTRNG\FrontEndForm\bin\Release\net6.0-windows\publish\win-x64\FrontEndForm.exe
